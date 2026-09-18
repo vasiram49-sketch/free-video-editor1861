@@ -1,0 +1,8 @@
+{
+  "name": "Video Studio Pro",
+  "description": "A free, ad-free video editor with timeline trimming, splitting, multi-track audio, filters, transitions, text overlays, and high-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
